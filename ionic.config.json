@@ -1,0 +1,7 @@
+{
+  "name": "testBmw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
